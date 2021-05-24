@@ -21,5 +21,11 @@
             "dependencies",
             "minor"
         ]
+    },
+    "vulnerabilityAlerts": {
+        "labels": [
+            "dependencies",
+            "security"
+        ]
     }
 }
